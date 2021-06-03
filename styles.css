@@ -6,48 +6,25 @@ body{
 
 h1{
     text-align:center;
-    color:lightseagreen;   
+    color:teal;   
+}
+
+#jumbo {
+    padding: 1px
 }
 
 #p1{
     text-align:center;
+    color:teal;
 }
 
 #d1{
     text-align:justify;
     text-align-last:center;
-    border: 10px solid transparent;
+    /*border: 10px solid transparent;
     border-radius:25px;
-    margin-top: 0px;
-    margin-bottom: 100px;
-    margin-right: 1500px;
-    margin-left: 20px;
     background-color: lightblue;
-    float: left;
-}
-
-#d2{
-    text-align:justify;
-    text-align-last:center;
-    border: 10px solid transparent;
-    border-radius:25px;
-    margin-bottom: 100px;
-    margin-right: 20px;
-    margin-left: 1500px;
-    background-color: lightblue;
-    /*float: right;*/
-}
-
-#p2{
-    float:left;
-}
-
-#p3{
-    float:right
-}
-
-#h2{
-    float:left
+    float: left;*/
 }
 
 .center {
